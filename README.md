@@ -1,4 +1,6 @@
+#include <stdio.h>
 
-Write C or C++ code  that prints "Hello world!". 
-
-Practice cloning, pulling and pushing a few times to get used to git cycle. 
+int main() {
+  printf("Hello World!\n");
+  return 0;
+}
